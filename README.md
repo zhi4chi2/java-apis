@@ -1,3 +1,7 @@
-# My Awesome Book
+# Jars
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+* jdk 1.8
+* spring-framework 4.2.1.RELEASE
+* hibernate 5.2.7.Final
+* slf4j 1.7.22
+* junit 4.12
