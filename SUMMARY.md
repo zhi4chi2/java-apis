@@ -2,7 +2,7 @@
 
 ### Reference
 - [Core Java](/corejava/README.md)
-  - [An Introduction to Java](/corejava/101.md)
+  - [An Introduction to Java](/corejava/101/README.md)
 
 
 ### Jars
