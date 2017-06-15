@@ -1,8 +1,13 @@
 # Summary
 
 ### Reference
-- [Core Java I](/corejavaI/README.md)
-  - [01](/corejavaI/01.md)
+- [Core Java](/corejava/README.md)
+  - [An Introduction to Java](/corejava/101.md)
+
+
+### Jars
+- [jboss logging](/jars/jboss-logging/README.md)
+- [logback](/jars/logback/README.md)
 
 
 ### Classes
