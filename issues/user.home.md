@@ -9,26 +9,26 @@ public class Test {
 ```
 
 
-Èç¹û×¢²á±í `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Desktop` ¼üÖµÊÇ `F:\UserData\Desktop`
+å¦‚æœæ³¨å†Œè¡¨ `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Desktop` é”®å€¼æ˜¯ `F:\UserData\Desktop`
 
 
-Ôò
+åˆ™
 ```bash
 D:\jdk1.7.0_67\bin\javac org/example/Test.java
 D:\jdk1.7.0_67\bin\java org.example.Test
 ```
-½«Êä³ö `F:\UserData`
+å°†è¾“å‡º `F:\UserData`
 
 
-¶ø
+è€Œ
 ```bash
 D:\jdk1.8.0_112\bin\javac org/example/Test.java
 D:\jdk1.8.0_112\bin\java org.example.Test
 ```
-½«Êä³ö `C:\Users\bruce` Óë USERPROFILE »·¾³±äÁ¿Ò»ÖÂ
+å°†è¾“å‡º `C:\Users\bruce` ä¸ USERPROFILE ç¯å¢ƒå˜é‡ä¸€è‡´
 
 
-Ò»°ãÈÏÎª JDK 8 µÄÊä³öÊÇÕıÈ·µÄ£¬µ«ÊÇÕâµ¼ÖÂÓë JDK8- ²»¼æÈİ¡£
+ä¸€èˆ¬è®¤ä¸º JDK 8 çš„è¾“å‡ºæ˜¯æ­£ç¡®çš„ï¼Œä½†æ˜¯è¿™å¯¼è‡´ä¸ JDK8- ä¸å…¼å®¹ã€‚
 
 
 # Reference
