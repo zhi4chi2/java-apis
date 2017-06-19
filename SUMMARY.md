@@ -3,6 +3,7 @@
 ### Reference
 - [Core Java](/corejava/README.md)
   - [An Introduction to Java](/corejava/101/README.md)
+- [Java8 函数式编程](/java8/README.md)
 
 
 ### Jars
