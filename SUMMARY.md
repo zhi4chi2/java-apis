@@ -9,6 +9,10 @@
 ### Jars
 - [jboss logging](/jars/jboss-logging/README.md)
 - [logback](/jars/logback/README.md)
+- [querydsl](/jars/querydsl/README.md)
+  - Tutorials
+    - [Querying JPA](/javar/querydsl/tutorials/01.md)
+    - [Querying SQL](/javar/querydsl/tutorials/03.md)
 
 
 ### Issues
