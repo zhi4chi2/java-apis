@@ -1,5 +1,5 @@
 ```java
-package org.example;
+package org.example.demo.java;
 
 public class Test {
     public static void main(String[] args) {
@@ -14,16 +14,16 @@ public class Test {
 
 则
 ```bash
-D:\jdk1.7.0_67\bin\javac org/example/Test.java
-D:\jdk1.7.0_67\bin\java org.example.Test
+D:\jdk1.7.0_67\bin\javac org/example/demo/java/Test.java
+D:\jdk1.7.0_67\bin\java org.example.demo.java.Test
 ```
 将输出 `F:\UserData`
 
 
 而
 ```bash
-D:\jdk1.8.0_112\bin\javac org/example/Test.java
-D:\jdk1.8.0_112\bin\java org.example.Test
+D:\jdk1.8.0_112\bin\javac org/example/demo/java/Test.java
+D:\jdk1.8.0_112\bin\java org.example.demo.java.Test
 ```
 将输出 `C:\Users\bruce` 与 USERPROFILE 环境变量一致
 
