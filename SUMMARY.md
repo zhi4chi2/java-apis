@@ -19,6 +19,11 @@
 - [user.home 在 JDK8 与之前不兼容](/issues/user.home.md)
 
 
+### Codes
+- [列出某个接口/类的所有子类](/code/get-all-subclasses.md)
+- [Lambda 抛异常](/code/lambda-throws-exception.md)
+
+
 ### Classes
 - [java.lang](/api/java/lang/README.md)
   - [java.lang.Runtime](/api/java/lang/Runtime.md)
