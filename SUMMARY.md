@@ -13,6 +13,7 @@
   - Tutorials
     - [Querying JPA](/javar/querydsl/tutorials/01.md)
     - [Querying SQL](/javar/querydsl/tutorials/03.md)
+- [velocity](/jars/velocity/README.md)
 
 
 ### Issues
@@ -25,6 +26,8 @@
 
 
 ### Classes
+- java.beans
+  - [java.beans.Introspector](/api/java/beans/Introspector.md)
 - [java.lang](/api/java/lang/README.md)
   - [java.lang.Runtime](/api/java/lang/Runtime.md)
   - [java.lang.String](/api/java/lang/String.md)
