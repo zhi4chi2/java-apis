@@ -31,3 +31,5 @@
 - [java.lang](/api/java/lang/README.md)
   - [java.lang.Runtime](/api/java/lang/Runtime.md)
   - [java.lang.String](/api/java/lang/String.md)
+- org.apache.velocity.tools.generic
+  - [org.apache.velocity.tools.generic.DateTool](/api/org/apache/velocity/tools/generic/DateTool.md)
