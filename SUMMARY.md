@@ -7,6 +7,7 @@
 
 
 ### Jars
+- [guava](/jars/guava/README.md)
 - [jboss logging](/jars/jboss-logging/README.md)
 - [logback](/jars/logback/README.md)
 - [querydsl](/jars/querydsl/README.md)
