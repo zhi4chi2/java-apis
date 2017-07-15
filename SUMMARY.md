@@ -13,6 +13,7 @@
   - Tutorials
     - [Querying JPA](/javar/querydsl/tutorials/01.md)
     - [Querying SQL](/javar/querydsl/tutorials/03.md)
+- [reflections](/jars/reflections/README.md)
 - [velocity](/jars/velocity/README.md)
 
 
