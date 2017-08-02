@@ -7,6 +7,7 @@
 
 
 ### Jars
+- [commons-lang3](/jars/commons-lang3/README.md)
 - [guava](/jars/guava/README.md)
 - [jackson](/jars/jackson/README.md)
 - [jboss logging](/jars/jboss-logging/README.md)
