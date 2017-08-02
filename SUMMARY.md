@@ -17,6 +17,8 @@
     - [Querying SQL](/javar/querydsl/tutorials/03.md)
 - [reflections](/jars/reflections/README.md)
 - [velocity](/jars/velocity/README.md)
+- [weixin-popular](/jars/weixin-popular/README.md)
+  - [公众平台](/jars/weixin-popular/mp.md)
 
 
 ### Issues
