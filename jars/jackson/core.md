@@ -35,9 +35,69 @@ public class Test {
             String fieldName = parser.getCurrentName();
             parser.nextToken();
             String value = parser.getText();
+            // hello: hello world
             System.out.println(fieldName + ": " + value);
         }
         parser.close();
+    }
+}
+```
+
+
+或者
+```java
+package org.example.demo.jackson;
+
+import java.io.IOException;
+
+import com.fasterxml.jackson.core.JsonFactory;
+import com.fasterxml.jackson.core.JsonParser;
+import com.fasterxml.jackson.core.JsonToken;
+import com.fasterxml.jackson.databind.ObjectMapper;
+
+public class Test {
+    public static void main(String[] args) throws Exception {
+        ObjectMapper mapper = new ObjectMapper();
+        JsonFactory factory = mapper.getFactory();
+
+        JsonParser parser = factory.createParser("{\"hello\": \"hello world\"}");
+        if (parser.nextToken() != JsonToken.START_OBJECT) {
+            throw new IOException("Expected data to start with an Object");
+        }
+        while (parser.nextToken() != JsonToken.END_OBJECT) {
+            String fieldName = parser.getCurrentName();
+            parser.nextToken();
+            String value = parser.getText();
+            // hello: hello world
+            System.out.println(fieldName + ": " + value);
+        }
+        parser.close();
+    }
+}
+```
+
+
+JsonGenerator 的例子
+```java
+package org.example.demo.jackson;
+
+import com.fasterxml.jackson.core.JsonFactory;
+import com.fasterxml.jackson.core.JsonGenerator;
+import com.fasterxml.jackson.core.JsonParser;
+
+public class Test {
+    public static void main(String[] args) throws Exception {
+        JsonFactory factory = new JsonFactory();
+        factory.enable(JsonParser.Feature.ALLOW_COMMENTS);
+
+        JsonGenerator jg = factory.createGenerator(System.out);
+        jg.writeStartObject();
+        jg.writeStringField("hello", "hello world!");
+        jg.writeEndObject();
+
+        System.out.println("write to console");
+        // {"hello":"hello world!"}
+        jg.close();
     }
 }
 ```
