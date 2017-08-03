@@ -10,6 +10,9 @@
 - [commons-lang3](/jars/commons-lang3/README.md)
 - [guava](/jars/guava/README.md)
 - [jackson](/jars/jackson/README.md)
+  - [jackson](/jars/jackson/jackson.md)
+  - [jackson-core](/jars/jackson/core.md)
+  - [jackson-annotations](/jars/jackson/annotations/README.md)
 - [jboss logging](/jars/jboss-logging/README.md)
 - [logback](/jars/logback/README.md)
 - [querydsl](/jars/querydsl/README.md)
@@ -32,6 +35,15 @@
 
 
 ### Classes
+- com.fasterxml.jackson.annotation
+  - [com.fasterxml.jackson.annotation.JsonAutoDetect](/api/com/fasterxml/jackson/annotation/JsonAutoDetect.md)
+  - [com.fasterxml.jackson.annotation.JsonCreator](/api/com/fasterxml/jackson/annotation/JsonCreator.md)
+  - [com.fasterxml.jackson.annotation.JsonDeserialize](/api/com/fasterxml/jackson/annotation/JsonDeserialize.md)
+  - [com.fasterxml.jackson.annotation.JsonIgnore](/api/com/fasterxml/jackson/annotation/JsonIgnore.md)
+  - [com.fasterxml.jackson.annotation.JsonIgnoreProperties](/api/com/fasterxml/jackson/annotation/JsonIgnoreProperties.md)
+  - [com.fasterxml.jackson.annotation.JsonProperty](/api/com/fasterxml/jackson/annotation/JsonProperty.md)
+  - [com.fasterxml.jackson.annotation.JsonSerialize](/api/com/fasterxml/jackson/annotation/JsonSerialize.md)
+  - [com.fasterxml.jackson.annotation.JsonTypeInfo](/api/com/fasterxml/jackson/annotation/JsonTypeInfo.md)
 - java.beans
   - [java.beans.Introspector](/api/java/beans/Introspector.md)
 - [java.lang](/api/java/lang/README.md)

@@ -69,6 +69,13 @@ handler types 包括
 - incremental model / streaming model - 最底层的方式
 
 
+# Menu
+- [jackson](/jars/jackson/README.md)
+  - [jackson](/jars/jackson/jackson.md)
+  - [jackson-core](/jars/jackson/core.md)
+  - [jackson-annotations](/jars/jackson/annotations/README.md)
+
+
 # Reference
 - http://wiki.fasterxml.com/JacksonHome - 官网
 - https://github.com/FasterXML/jackson - 主页
