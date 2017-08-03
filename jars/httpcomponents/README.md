@@ -1,4 +1,5 @@
 - [httpcomponents](/jars/httpcomponents/README.md)
+  - [httpclient](/jars/httpcomponents/client/README.md)
 
 
 HttpComponents 包括：
@@ -44,4 +45,4 @@ Asynch HttpClient(4.1.3)
 
 # Reference
 - http://hc.apache.org/
-
+- http://hc.apache.org/downloads.cgi - 下载地址

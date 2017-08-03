@@ -10,6 +10,7 @@
 - [commons-lang3](/jars/commons-lang3/README.md)
 - [guava](/jars/guava/README.md)
 - [httpcomponents](/jars/httpcomponents/README.md)
+  - [httpclient](/jars/httpcomponents/client/README.md)
 - [jackson](/jars/jackson/README.md)
   - [jackson](/jars/jackson/jackson.md)
   - [jackson-core](/jars/jackson/core.md)
