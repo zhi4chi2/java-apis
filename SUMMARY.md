@@ -51,5 +51,10 @@
 - [java.lang](/api/java/lang/README.md)
   - [java.lang.Runtime](/api/java/lang/Runtime.md)
   - [java.lang.String](/api/java/lang/String.md)
+- org.apache.commons.lang3.builder
+  - [org.apache.commons.lang3.builder.EqualsBuilder](/api/org/apache/commons/lang3/builder/EqualsBuilder.md)
+  - [org.apache.commons.lang3.builder.ToStringBuilder](/api/org/apache/commons/lang3/builder/ToStringBuilder.md)
 - org.apache.velocity.tools.generic
   - [org.apache.velocity.tools.generic.DateTool](/api/org/apache/velocity/tools/generic/DateTool.md)
+- org.jboss.logging
+  - [org.jboss.logging.LoggerProviders](/api/org/jboss/logging/LoggerProviders.md)
