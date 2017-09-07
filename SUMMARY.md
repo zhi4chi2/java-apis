@@ -16,11 +16,12 @@
   - [jackson-core](/jars/jackson/core.md)
   - [jackson-annotations](/jars/jackson/annotations/README.md)
 - [jboss logging](/jars/jboss-logging/README.md)
-- jdbc
+- [jdbc](/jars/jdbc/README.md)
   - [postgres](/jars/jdbc/postgres.md)
   - [mysql](/jars/jdbc/mysql.md)
   - [oracle](/jars/jdbc/oracle.md)
   - [h2](/jars/jdbc/h2.md)
+  - [sqlserver](/jars/jdbc/sqlserver.md)
 - [logback](/jars/logback/README.md)
 - [querydsl](/jars/querydsl/README.md)
   - Tutorials
